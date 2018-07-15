@@ -1,0 +1,20 @@
+{
+  "name": "zadachi",
+  "version": "1.0.0",
+  "description": "zadachi from softserve",
+  "main": "index.js",
+  "scripts": {
+
+    "test": "jasmine"
+  },
+  "author": "Tamara Kovalchuk",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-node": "^1.15.0",
+    "npm": "^6.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.1.0",
+    "jasmine": "^3.1.0"
+  }
+}
