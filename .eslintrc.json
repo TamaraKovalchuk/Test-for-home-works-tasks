@@ -15,7 +15,7 @@
             4
         ],
         "linebreak-style": [
-            "ignore",
+            "off",
             "windows"
         ],
         "quotes": [
